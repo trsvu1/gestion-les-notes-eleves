@@ -5,7 +5,7 @@
     
         public function __construct(){
             $serveur = "localhost"; 
-            $database = "Test"; 
+            $database = "PP_01_Gestion_Eleve"; 
             $user = "root";
             $mdp = "root"; 
             try{

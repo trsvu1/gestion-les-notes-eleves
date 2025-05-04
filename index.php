@@ -47,10 +47,10 @@
       require_once("controleur/verif_connexion.php");
 
       if(isset($_SESSION["email"])){
-        require_once("page_accueil.php");
+        require_once("vue/page_accueil.php");
       }
   ?>
-  
+
   <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
   <!-- Scroll Top -->
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>

@@ -9,7 +9,7 @@
             <input type="submit" value="Filtre">
         </form>
             <br>
-        <h2> Liste Des Eleves </h2>
+        <h2> Liste Des Eleves ( <?= (isset($lesEleves))? count($lesEleves) : '' ?> ) </h2>
             <form method="post">
                 Trier par : 
                 <select name="trier">
@@ -22,7 +22,7 @@
                 <input type="submit" value="Trier">
             </form>
         <br>
-        <table border="1">
+        <table border="1" style="margin: 0 auto; border-collapse: collapse; width: 100%;">
             <thead>
                 <tr>
                     <th>ID Eleve</th>
@@ -59,8 +59,8 @@
                                     echo "<td>".$unEleve['matiere5']."</td>";
                                     echo "<td>".$unEleve['moyenne']."</td>";
                                     echo "<td>";
-                                        echo "<a href='../vue/page_accueil.php#gestion_eleve&action=edit&id_eleve=".$unEleve['id_eleve']."'> <img src='../assets/img/editer.png' height='30' witdh='30'> </a>";
-                                        echo "<a href='../vue/page_accueil#liste_eleve&action=sup&id_eleve=".$unEleve['id_eleve']."'> <img src='../assets/img/supprimer.png' height='30' witdh='30'> </a>";
+                                        echo "<a href='index.php?gestion_eleve&action=edit&id_eleve=".$unEleve['id_eleve']."'> <img src='assets/img/editer.png' height='30' witdh='30'> </a>";
+                                        echo "<a href='index.php?liste_eleve&action=sup&id_eleve=".$unEleve['id_eleve']."'> <img src='assets/img/supprimer.png' height='30' witdh='30'> </a>";
                                     echo "</td>";
                                 echo "</tr>";
                             }
