@@ -39,7 +39,7 @@
     
       <div class="row gy-4 mt-1">
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" style="border:0; width: 100%; height: 400px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.999231293062!2d2.292292315674162!3d48.87379197928871!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66fdf8f8c6b1b%3A0x8c8c8c8c8c8c8c8c!2sEcole%20IRis%2C%206-8%20Impasse%20Des%202%20Cousins%2C%2075017%20Paris%2C%20France!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" style="border:0; width: 100%; height: 400px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div><!-- Fin Google Maps -->
     
         <div class="col-lg-6">

@@ -1,4 +1,4 @@
-<div class="page-connexion" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 60vh; text-align: center;">
+<div class="page-connexion" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 90vh; text-align: center;">
     <h1>Système Gestion Les Notes Des Eleves</h1>
     <h2>Connecter au Site</h2>
     <img src="assets/img/connexion.png" alt="Logo" style="width: 300px; height: 100px;">
@@ -21,6 +21,11 @@
                     </td>
                 </tr>
             </table>
+            <div class="info-connexion" style="text-align: center; padding: 50px;">
+                <p><i>Email : a@gmail.com ( admin ) </i></p>
+                <p><i>Password : 123 </i></p>
+            </div>
+            
         </form>
     </div>
 </div>
