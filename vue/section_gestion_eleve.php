@@ -1,9 +1,9 @@
 <!-- Services Section -->
-<section id="gestion_eleve" class="gestion_eleve section light-background">
+<section id="gestion_eleve" class="gestion_eleve section light-background" style="display: flex; justify-content: center; align-items: center; height: 100%; background-color: white;">
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-    <h2><?php echo isset($Eleve) ? "Modifier d'un Eleve" : "Ajouter d'Un Eleve"; ?></h2>
+    <h2><?php echo isset($Eleve) ? "Modifier l'information d'un eleve" : "Ajouter d'un eleve"; ?></h2>
             <div style="display: flex; justify-content: center; align-items: center;">
                 <form method="post">
                     <table>

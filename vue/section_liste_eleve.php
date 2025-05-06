@@ -3,13 +3,13 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-      <h2>Cherche Le Note d'Un Eleve</h2>
+      <h2>Cherche le note d'un eleve</h2>
         <form method="post">
             Filtre par : <input type="text" name="filtre" placeholder="...">
             <input type="submit" value="Filtre">
         </form>
             <br>
-        <h2> Liste Des Eleves ( <?= (isset($lesEleves))? count($lesEleves) : '' ?> ) </h2>
+        <h2> Liste des eleves ( <?= (isset($lesEleves))? count($lesEleves) : '' ?> ) </h2>
             <form method="post">
                 Trier par : 
                 <select name="trier">
@@ -59,8 +59,8 @@
                                     echo "<td>".$unEleve['matiere5']."</td>";
                                     echo "<td>".$unEleve['moyenne']."</td>";
                                     echo "<td>";
-                                        echo "<a href='index.php?gestion_eleve&action=edit&id_eleve=".$unEleve['id_eleve']."'> <img src='assets/img/editer.png' height='30' witdh='30'> </a>";
-                                        echo "<a href='index.php?liste_eleve&action=sup&id_eleve=".$unEleve['id_eleve']."'> <img src='assets/img/supprimer.png' height='30' witdh='30'> </a>";
+                                        echo "<a href='index.php?gestion_eleve&action=edit&id_eleve=".$unEleve['id_eleve']."#gestion_eleve'> <img src='assets/img/editer.png' height='30' witdh='30'> </a>";
+                                        echo "<a href='index.php?liste_eleve&action=sup&id_eleve=".$unEleve['id_eleve']."#liste_eleve'> <img src='assets/img/supprimer.png' height='30' witdh='30'> </a>";
                                     echo "</td>";
                                 echo "</tr>";
                             }
