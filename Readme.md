@@ -101,7 +101,8 @@ Exemple :
 
 ## 🖥️ Les Pages Principal
 
-<img src="https://github.com/trsvu1/gestion-les-notes-eleves/blob/main/assets/img/about-company-1.jpg" width="300" />
+<img src="https://github.com/trsvu1/gestion-les-notes-eleves/blob/main/assets/img/pages/page_1.png" width="300" />
+
 ---
 
 ## 📊 Informations techniques
