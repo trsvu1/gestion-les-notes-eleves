@@ -57,7 +57,7 @@ Contient toutes les interfaces utilisateur (HTML + Bootstrap) :
 
 1. **Télécharger ou cloner le projet** :
    ```bash
-   git clone https://votre-repo/exemple-gestion-eleves.git
+   git clone https://github.com/trsvu1/gestion-les-notes-eleves
    ```
 
 2. **Placer le dossier dans le répertoire serveur** :
@@ -82,8 +82,8 @@ Contient toutes les interfaces utilisateur (HTML + Bootstrap) :
 Utilisez un compte administrateur enregistré dans la base de données.
 
 Exemple :
-- **Email** : `admin@example.com`
-- **Mot de passe** : `admin123`
+- **Email** : `a@gmail.com`
+- **Mot de passe** : `123`
 
 ---
 
@@ -102,7 +102,7 @@ Exemple :
 ## 📊 Informations techniques
 
 - 🕒 **Durée de développement** : 3 mois
-- 📄 **Nombre de lignes PHP** : 104 lignes (sans compter le HTML/CSS)
+- 📄 **Nombre de lignes PHP** : 900+ lignes (sans compter le HTML/CSS)
 - 🧱 **Architecture utilisée** : MVC (Modèle-Vue-Contrôleur)
 - 📚 **Technologies** : PHP, MySQL, HTML, CSS (Bootstrap)
 
@@ -121,7 +121,7 @@ Exemple :
 
 ## 👤 Auteur
 
-- **Nom** : *[Votre Nom]*
+- **Nom** : *Truong Son Vu*
 - **Année** : 2025
 - **Projet personnel / stage / formation**
 
@@ -129,4 +129,4 @@ Exemple :
 
 ## 📬 Contact
 
-- 📧 *email@exemple.com*
+- 📧 *truong-son.vu@mediaschool.com*
