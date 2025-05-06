@@ -133,8 +133,8 @@ Exemple :
 
 ## 📊 Informations techniques
 
-- 🕒 **Durée de développement** : 3 mois
-- 📄 **Nombre de lignes PHP** : 900+ lignes (sans compter le HTML/CSS)
+- 🕒 **Durée de développement** : 3 mois ( Février 2025 - Mai 2025 )
+- 📄 **Nombre de lignes Code** : 900+ lignes 
 - 🧱 **Architecture utilisée** : MVC (Modèle-Vue-Contrôleur)
 - 📚 **Technologies** : PHP, MySQL, HTML, CSS (Bootstrap)
 
