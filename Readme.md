@@ -101,7 +101,26 @@ Exemple :
 
 ## 🖥️ Les Pages Principal
 
-<img src="https://github.com/trsvu1/gestion-les-notes-eleves/blob/main/assets/img/pages/page_1.png" width="300" />
+- 1. Page Connexion
+<img src="https://github.com/trsvu1/gestion-les-notes-eleves/blob/main/assets/img/pages/page_1.png" width="300" height="300" />
+
+- 2. Page Accueil
+<img src="https://github.com/trsvu1/gestion-les-notes-eleves/blob/main/assets/img/pages/page_2.png" width="300" height="300" />
+
+- 3. Page Dashboard ( Liste Eleves )
+<img src="https://github.com/trsvu1/gestion-les-notes-eleves/blob/main/assets/img/pages/page_3.png" width="300" height="300" />
+
+- 4. Page Gestion ( Gestion Eleves )
+<img src="https://github.com/trsvu1/gestion-les-notes-eleves/blob/main/assets/img/pages/page_4.png" width="300" height="300" />
+
+- 5. Page Avis ( Avis Professeurs )
+<img src="https://github.com/trsvu1/gestion-les-notes-eleves/blob/main/assets/img/pages/page_5.png" width="300" height="300" />
+
+- 6. Page Contact
+<img src="https://github.com/trsvu1/gestion-les-notes-eleves/blob/main/assets/img/pages/page_6.png" width="300" height="300" />
+
+-7. Page Footer 
+<img src="https://github.com/trsvu1/gestion-les-notes-eleves/blob/main/assets/img/pages/page_7.png" width="300" height="300" />
 
 ---
 
