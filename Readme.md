@@ -99,10 +99,9 @@ Exemple :
 
 ---
 
-## 🖥️ Page Images
+## 🖥️ Les Pages Principal
 
-![Alt text](https://example.com/path/to/image.png)
-
+<img src="https://github.com/trsvu1/gestion-les-notes-eleves/blob/main/assets/img/about-company-1.jpg" width="300" />
 ---
 
 ## 📊 Informations techniques
