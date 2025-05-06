@@ -99,6 +99,12 @@ Exemple :
 
 ---
 
+## 🖥️ Page Images
+
+![Alt text](https://example.com/path/to/image.png)
+
+---
+
 ## 📊 Informations techniques
 
 - 🕒 **Durée de développement** : 3 mois
