@@ -15,7 +15,7 @@
                 echo "Erreur de connexion à la BDD";
             }
         }
-        /********* Gestion des users ****************/
+        /****************** Vérifier le connexion utilisateurs ****************/
         public function verif_Connexion ($email, $pass){
             $requete = "select * from user where email =:email and pass =:pass;"; 
             $exec = $this->PDO->prepare($requete);
